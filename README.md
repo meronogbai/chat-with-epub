@@ -43,4 +43,4 @@ https://github.com/meronogbai/chat-with-epub/assets/22526062/0663767a-f48e-4167-
 
 ## Limitation
 
-Currently, this is only good for asking targeted questions and not summarization due OpenAI's to token size limit.
+Currently, this is only good for asking targeted questions and not summarization due to OpenAI's token size limit.
